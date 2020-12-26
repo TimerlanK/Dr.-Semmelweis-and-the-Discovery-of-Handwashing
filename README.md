@@ -11,7 +11,8 @@ Project Description
 In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. </br>
 Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives.
 
-# Skills Data manipulation
+# Skills 
+* Data manipulation
 * Data Visualization
 * Importing and Cleaning Data
 * Probability & Statistics
