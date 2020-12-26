@@ -6,7 +6,6 @@
 
 My Jupyter notebooks to [Datacamp](https://www.datacamp.com/profile/timerlankaiyr) projects.
 
-# Dr.-Semmelweis-and-the-Discovery-of-Handwashing
  
 Project Description
 In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. </br>
